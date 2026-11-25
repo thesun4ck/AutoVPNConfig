@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#3478F6</color>
+    <string name="app_name">VPN Client</string>
+    <string name="tile_label">VPN</string>
+    <style name="Theme.VpnUi" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@android:color/black</item>
+    </style>
+</resources>
